@@ -14,8 +14,8 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D1BF2C75760A06FF1C7A00195845E4D9"
-               BuildableName = "KMCategory.framework"
+               BlueprintIdentifier = "3652A28CE9EFFC22D56C25DA531F24B5"
+               BuildableName = "KMCategory"
                BlueprintName = "KMCategory"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
