@@ -1,6 +1,0 @@
-framework module KMCategory {
-  umbrella header "KMCategory-umbrella.h"
-
-  export *
-  module * { export * }
-}
